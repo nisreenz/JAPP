@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">مرحبا</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forget_password">هل نسيت كلمة السر</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="you_don_t_have_an_account_yet">ليس لديك حساب ؟</string>
+    <string name="sign_up">اﻻشتراك</string>
+    <string name="create_an_account">انشاء حساب جديد</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="job_seeker">باحث عن عمل</string>
+    <string name="organization">مؤسسة</string>
+    <string name="sign_in2">تسجيل الدخول</string>
+    <string name="name_alert">ادخل اسمك</string>
+    <string name="email_alert_1">ادخل البريد اﻻلكترونى</string>
+    <string name="email_alert_2">ادخل بريد الكترونى صالح</string>
+    <string name="pass_alert">ادخل كلمة المرور</string>
+    <string name="pass_alert2">يجب أن تحتوي كلمة المرور على أحرف كبيرة</string>
+    <string name="phone_alert">ادخل رقم الهاتف</string>
+    <string name="phone_alert2">ادخل رقم هاتف صالح</string>
+    <string name="edt_alert">ادخل النص</string>
+    <string name="auth_failed">فشل التحقق</string>
+    <string name="checkbox_alert">اختار دورك</string>
+    <string name="name">اﻻسم</string>
+    <string name="find_your">ايجاد</string>
+    <string name="dream_job">وظيفة اﻻحلام</string>
+    <string name="here">هنا</string>
+    <string name="splash_text">استكشف جميع الأدوار الوظيفية الأكثر إثارة بناءً على اهتماماتك وتخصصك الدراسي.</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="search">البحث</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="my_jobs">وظائفي</string>
+    <string name="full_time">دوام كامل</string>
+    <string name="part_time">دوام جزئي</string>
+    <string name="job_list">قائمة الوظائف</string>
+    <string name="applicant_list">قائمة المتقدمين</string>
+    <string name="read_more">قراءة المزيد</string>
+    <string name="your_compatibility_percentage_with_this_job">نسبة التوافق مع هذه الوظيفة</string>
+    <string name="your_compatibility_percentage_with_this_job_seeker">نسبة توافقك مع هذا الباحث عن عمل</string>
+    <string name="find_your_job">ابحث عن وظيفتك</string>
+    <string name="find_your_employee">ابحث عن موظفك</string>
+    <string name="job_description">وصف الوظيفة</string>
+    <string name="requirements">المتطلبات</string>
+    <string name="information">معلومات</string>
+    <string name="position">منصب</string>
+    <string name="qualification">مؤهلات</string>
+    <string name="experience">خبرة</string>
+    <string name="job_type">نوع الوظيفة</string>
+    <string name="specialization">تخصص</string>
+    <string name="apply_now">قدم الآن</string>
+    <string name="company_image">صورة الشركة</string>
+    <string name="categories">التصنيفات :</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="personal_information">معلومات شخصية</string>
+    <string name="gender">الجنس</string>
+    <string name="country">الدولة</string>
+    <string name="date_of_birth">تاريخ الميلاد</string>
+    <string name="city">المدينة</string>
+    <string name="nationality">الجنسية</string>
+    <string name="skills">المهارات</string>
+    <string name="add">+ إضافة</string>
+    <string name="education">التعليم</string>
+    <string name="languages">اللغات</string>
+    <string name="save">حفظ</string>
+    <string name="notification">الاشعارات</string>
+    <string name="saved_jobs">الوظائف المحفوظة</string>
+    <string name="pending">لم يتم الرد</string>
+    <string name="active">فعال</string>
+    <string name="reject">مرفوض</string>
+    <string name="accept">مقبول</string>
+    <string name="adding_item">إضافة عنصر</string>
+    <string name="text">نص</string>
+    <string name="cancel">الغاء</string>
+    <string name="finance">المالية</string>
+    <string name="food">طعام</string>
+    <string name="marketing">تسويق</string>
+    <string name="programming">تقنية</string>
+    <string name="law">قانون</string>
+    <string name="health">الصحة</string>
+    <string name="error">هناك خطب ما</string>
+    <string name="job_details">تفاصيل الوظيفة</string>
+    <string name="settings">اﻻعدادات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="language">اللغة</string>
+    <string name="update_password">تغيير كلمة المرور</string>
+    <string name="old_password">كلمة المرور القديمة</string>
+    <string name="new_password">كلمة المرور الحديثه</string>
+    <string name="confirm_password">تاكيد كلمة المرور</string>
+    <string name="update">تحديث</string>
+    <string name="are_you_sure_you_want_to_leave">هل انت متاكد انك تريد المغادرة؟</string>
+    <string name="yes">نعم</string>
+    <string name="add_post">إضافة وظيفة</string>
+    <string name="jobs">وظائف</string>
+    <string name="name_of_organization">اسم المؤسسة</string>
+    <string name="organization_location">موقع المؤسسة</string>
+    <string name="city_of_organization">مدينة المؤسسة</string>
+    <string name="required_service">الخدمة المطلوبة</string>
+    <string name="organization_size">حجم المنظمة</string>
+    <string name="company_description">وصف الشركة</string>
+    <string name="write_additional_information_here">اكتب معلومات إضافية هنا</string>
+    <string name="post_title">عنوان الوظيفة</string>
+    <string name="write_the_title_of_your_post_here">اكتب عنوان وظيفتك هنا</string>
+    <string name="description">وصف</string>
+    <string name="what_do_you_want_to_talk_about">ماذا تريد أن تتحدث عن؟</string>
+    <string name="type">نوع</string>
+    <string name="category">فئة</string>
+    <string name="location">موقع</string>
+    <string name="verify">تحقق</string>
+    <string name="check_your_email">تحقق من بريدك الالكتروني</string>
+    <string name="we_have_sent_the_verification_code_to_email_address"> لقد أرسلنا رمز التحقق إلى عنوان البريد الإلكتروني</string>
+    <string name="open_your_email">افتح بريدك الإلكتروني</string>
+    <string name="back_to_sign_in">العودة لتسجيل الدخول</string>
+    <string name="you_have_not_received_the_email">لم تتلق البريد الإلكتروني؟</string>
+    <string name="resend">إعادة إرسال</string>
+    <string name="all">الكل</string>
+    <string name="cv">السيرة الذاتية</string>
+    <string name="upload">رفع</string>
+    <string name="download_cv">تحميل السيرة الذاتية</string>
+    <string name="show_cv">عرض السيرة الذاتية</string>
+    <string name="no_email_client">لايوجد مشغل ايميل على هاتفك</string>
+    <string name="apply_job">رسميا لقد قدمت فى هذه الوظيفة</string>
+    <string name="reject_user">تم رفض هذا المتقدم</string>
+    <string name="accept_user">تم قبول ها المتقدم</string>
+    <string name="save_data">لقد تم حفظ البيانات</string>
+    <string name="picked_file">لم تختار اى ملف</string>
+    <string name="same_password">ادخل نفس كلمة المرور فى الخانتين</string>
+    <string name="choose_language">اختر لغة</string>
+    <string name="ar">اللغة العربية</string>
+    <string name="en">اللغة الانجليزية</string>
+    <string name="you_already_have_an_account">لديك حساب بالفعل ؟</string>
+    <string name="not_found_active_jobs">لم يتم العثور على وظائف نشطة</string>
+    <string name="not_found">لا يوجد</string>
+    <string name="not_found_notifications">لم يتم العثور على اشعارات</string>
+    <string name="not_found_jobs">لا يوجد وظائف</string>
+    <string name="edit">تعديل</string>
+    <string name="eng">هندسة</string>
+    <string name="translation">ترجمة</string>
+    <string name="edit_photo">تعديل الصورة</string>
+    <string name="filter">فلتر</string>
+    <string name="first_name">الاسم الاول</string>
+    <string name="second_name">الاسم الثانى</string>
+    <string name="last_name">الاسم الاخير</string>
+    <string name="value">القيمة</string>
+    <string name="job_title">المسمى الوظيفي</string>
+    <string name="adding_requirement">Adding requirement</string>
+    <string name="priority_of_requirement">priority of requirement % :</string>
+    <string name="matching_requirements">متطلبات المطابقة</string>
+    <string name="engineering">هندسة</string>
+    <string name="technology">تكنولوجيا</string>
+    <string name="done">DONE</string>
+
+    <string-array name="type">
+        <item>دوام كامل</item>
+        <item>دوام جزئي</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>تعليم</item>
+        <item>هندسة</item>
+        <item>الموارد المالية</item>
+        <item>ترجمة</item>
+        <item>تسويق</item>
+        <item>طعام</item>
+        <item>قانون</item>
+        <item>تقنية</item>
+        <item>الصحة</item>
+    </string-array>
+</resources>
